@@ -1,0 +1,29 @@
+{
+	"list":[
+		{
+			"id":"1000167",
+			"title":"精致清新氧气生活妆",
+			"discount":178,
+			"price":308,
+			"like":550,
+			"img":"./src/assets/images/img_1.jpg"
+		},
+		{
+			"id":"1000988",
+			"title":"新春自然裸妆款美睫",
+			"discount":388,
+			"price":588,
+			"like":79,
+			"img":
+				"./src/assets/images/img_2.jpg"
+		},
+		{
+			"id":"1000373",
+			"title":"小仙女氧气裸妆款美睫",
+			"discount":388,
+			"price":588,
+			"like":247,
+			"img":"./src/assets/images/img14_1.jpg"
+		}
+	]
+}
